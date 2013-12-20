@@ -1,0 +1,4 @@
+<searchable xmlns:android="http://schemas.android.com/apk/res/android"
+    android:label="FreshPrice Search"
+    android:hint="Search recipes and items]" >
+</searchable>
